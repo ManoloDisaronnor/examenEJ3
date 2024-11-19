@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">examenEJ3</string>
+    <string name="Inicio">EJERCICIO 3</string>
+    <string name="botonInicio">Ir al Ejercicio</string>
+    <string name="Login">Pantalla Login</string>
+    <string name="placeHolderNombre">Introduzca su nombre</string>
+    <string name="BotonLogin">Ir a detalle</string>
+    <string name="topBar">Login</string>
+    <string name="logout">Logout</string>
+    <string name="volver">Inicio</string>
+</resources>
